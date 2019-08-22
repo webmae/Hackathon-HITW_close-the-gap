@@ -127,7 +127,7 @@ Au scan du QR code :
 - prénom, 
 - sexe, 
 - tag/keyword. Pour renseigner le nom de la classe ou du projet auquel la machine va servir.
-- tranche age
+- tranche âge
 
 
 ## Gamification
@@ -136,6 +136,5 @@ Les utilisateurs finaux doivent prendre soin des ordinateurs. Au plus, les gens 
 Pour continuer à prendre soin de l'ordi, on lui dit de faire plusieurs trucs : 
 Badge assigné à l'ordinateur, pas à la personne. La personne reçoit donc un ordinateur avec un historique, un vécu.
 - RunTest 2x/mois (1 badge) pour avoir des informations sur l'état de la machine.
-- Questions caca (1 badge)
 - Donner des précisions sur l'utilisation et les projets que tu fais. (1 badge)
 Stickers sont donnés avec les ordinateurs (physiques) et stockés sur la plateforme pour faire foi.
